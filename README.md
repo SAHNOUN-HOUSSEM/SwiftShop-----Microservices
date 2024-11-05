@@ -4,15 +4,6 @@
 SwiftShop is a distributed e-commerce platform developed with a microservices architecture. It offers a smooth and user-friendly shopping experience with independent services that handle specific functionalities, promoting scalability, reliability, and maintainability.
 
 ---
-
-## Table of Contents
-- [Repositories](#repositories)
-- [Technologies Used](#technologies-used)
-- [Architecture](#architecture)
-- [Microservices Overview](#microservices-overview)
-- [Installation and Setup](#installation-and-setup)
-
----
 ## Repositories
 
 The SwiftShop project is split into two repositories for better modularity and organization:
@@ -24,6 +15,14 @@ The SwiftShop project is split into two repositories for better modularity and o
   Contains the frontend application built with React and TypeScript, providing a user-friendly interface for browsing, cart management, and checkout.
 
 ---
+## Table of Contents
+- [Technologies Used](#technologies-used)
+- [Architecture](#architecture)
+- [Microservices Overview](#microservices-overview)
+- [Installation and Setup](#installation-and-setup)
+
+---
+
 ## Technologies Used
 - **Backend:** Spring Boot, Spring Cloud
 - **Frontend:** React with TypeScript
