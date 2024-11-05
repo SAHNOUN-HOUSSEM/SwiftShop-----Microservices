@@ -6,14 +6,24 @@ SwiftShop is a distributed e-commerce platform developed with a microservices ar
 ---
 
 ## Table of Contents
+- [Repositories](#repositories)
 - [Technologies Used](#technologies-used)
 - [Architecture](#architecture)
 - [Microservices Overview](#microservices-overview)
-- [Repositories](#repositories)
 - [Installation and Setup](#installation-and-setup)
 
 ---
+## Repositories
 
+The SwiftShop project is split into two repositories for better modularity and organization:
+
+- **Backend Repository:** [PPP_E-commerce_microservices_Backend](https://github.com/SAHNOUN-HOUSSEM/PPP_E-commerce_microservices_Backend)  
+  Contains the backend services built with Spring Boot, utilizing a microservices architecture with RabbitMQ, Eureka, Docker, and Kubernetes for orchestration and communication.
+
+- **Frontend Repository:** [PPP_E-commerce_microservices_Frontend](https://github.com/SAHNOUN-HOUSSEM/PPP_E-commerce_microservices_Frontend)  
+  Contains the frontend application built with React and TypeScript, providing a user-friendly interface for browsing, cart management, and checkout.
+
+---
 ## Technologies Used
 - **Backend:** Spring Boot, Spring Cloud
 - **Frontend:** React with TypeScript
@@ -59,17 +69,7 @@ Key components of the architecture include:
 
 ---
 
-## Repositories
 
-The SwiftShop project is split into two repositories for better modularity and organization:
-
-- **Backend Repository:** [PPP_E-commerce_microservices_Backend](https://github.com/SAHNOUN-HOUSSEM/PPP_E-commerce_microservices_Backend)  
-  Contains the backend services built with Spring Boot, utilizing a microservices architecture with RabbitMQ, Eureka, Docker, and Kubernetes for orchestration and communication.
-
-- **Frontend Repository:** [PPP_E-commerce_microservices_Frontend](https://github.com/SAHNOUN-HOUSSEM/PPP_E-commerce_microservices_Frontend)  
-  Contains the frontend application built with React and TypeScript, providing a user-friendly interface for browsing, cart management, and checkout.
-
----
 
 ## Installation and Setup
 
